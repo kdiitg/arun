@@ -28,8 +28,8 @@ git branch -M main
 git remote add origin https://github.com/kdiitg/arun.git
 git push -u origin main
 
-save above code any file.sh
+save above code in a  filename.sh
 
-./file.sh
-bash -x file.sh
+./filename.sh -------------> this command will run filename.sh
+bash -x filename.sh -------> this command will run and verbose
 
